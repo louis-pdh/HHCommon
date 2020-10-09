@@ -1,0 +1,23 @@
+{
+  "name": "hh-common",
+  "version": "1.0.0",
+  "description": "some common things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louis-pdh/HHCommon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louis-pdh/HHCommon/issues"
+  },
+  "homepage": "https://github.com/louis-pdh/HHCommon#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0"
+  }
+}
