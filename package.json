@@ -11,7 +11,7 @@
     "url": "git+https://github.com/louis-pdh/HHCommon.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "louis.phhh@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/louis-pdh/HHCommon/issues"
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/louis-pdh/HHCommon#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^8.5.1",
+    "string-builder": "^0.1.8"
   }
 }
